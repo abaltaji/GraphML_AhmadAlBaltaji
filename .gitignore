@@ -37,7 +37,7 @@ __pycache__/
 
 .DS_Store
 Thumbs.db
-
+git rm --cached *.ipynb
 ##################################################
 # IGNORE EXTRA NOTEBOOK FOLDERS
 S02-01 Primal vs Dual.ipynb
